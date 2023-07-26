@@ -1,0 +1,416 @@
+What are Square’s processing fees?
+Square’s pricing is simple and transparent. You will pay one simple rate for every contactless or chip and PIN payment based on the payment method you choose. That’s it. There are no additional fees or lock-in contracts.
+
+
+What’s included in processing fees?
+When you take a payment with Square, we only keep a portion of the processing fee and part of this goes towards building tools and features for your business. Approximately two thirds of the fee is paid out to cardholder banks, card networks and third parties to cover interchange fees, network assessments and PCI compliance.
+
+
+Which card brands are accepted?
+Square works with any UK-issued and most international contactless, chip and PIN and magnetic stripe cards with a Visa, MasterCard, American Express, Maestro, Visa Electron or Vpay logo.
+Learn more about accepted cards
+
+
+When are bank transfers sent?
+Your balance will be transferred to your bank account as soon as the next working day. For faster access to your money, initiate an instant transfer from the Square app.
+Learn about instant transfers
+
+
+Which devices work with Square?
+The Square Reader is compatible with most Apple devices running iOS 12 and above and Android devices running version 5 and above.
+Learn about compatible devices
+
+
+How do I reach the support team?
+Our in-house phone support is available from Monday to Friday, 9 a.m. to 5 p.m. You can also search our Support Centre from your point of sale 24/7. Finally, you can connect and learn from other sellers in our Seller Community.
+
+
+What is Square Invoices?
+Square Invoices is a free, all-in-one invoicing software that helps businesses request, track and manage their invoices, estimates and payments from one place. Our easy-to-use software will help your business get paid faster by letting you request, accept and record any type of payment method.
+
+
+What are the benefits of e-invoicing?
+A manual invoice process, such as creating invoices on Microsoft Word or Microsoft Excel, can be time consuming and difficult to manage. E-invoicing lets your business automate invoice processing and save time by tracking key invoice data like open invoices (also known as outstanding invoices). It also helps you manage late payments more efficiently with payment reminders you can send your customers before an invoice due date.
+
+
+How can I create an invoice?
+Send your first invoice by signing up for a free Square Invoices account. Afterwards, set up recurring payments and auto-reminders, and request deposits so you always get paid on time.
+
+
+How can I send my customers an invoice?
+Create and send invoices in a few clicks from your mobile device with the Square Invoices app, or from any web browser, such as your desktop or laptop computer.
+
+
+What methods of payment can my customers use?
+You can accept all types of payment methods like cards, cash, cheques and gift cards. Your customers can pay an online invoice through their computer, in person or from their mobile device with their credit or debit card, Apple Pay or Google Pay.
+
+
+How quickly can I access my funds with Square Invoices?
+You can get your money as soon as the next working day or instantly for a fee using the Instant Transfer service.
+
+
+How can I automate my billing system?
+Square Invoices comes with easy-to-understand billing features that help you create recurring invoices and save a card on file to set up auto-billing for any customer.
+
+
+How does an electronic invoice differ from a paper-based invoice?
+An electronic invoice is created with an online invoice software or another cloud-based solution and provides small business owners with professional-looking digital invoices that can be paid online or in person. A paper-based** invoice is manually written out – a process that requires extra time since tasks, like invoice tracking and overdue invoices, aren’t automated.
+
+
+How can I manage my customers better?
+Square Invoices comes with a free customer management system, Customer Directory, that helps your business store and manage contact information for your customers in one place. You can easily save key details like your customer’s business name, email address and phone number for any business invoice.
+
+
+Can I send payment receipts with Square Invoices?
+Yes, Square Invoices lets you send text or email receipts for every type of invoice, no matter the payment method. For recurring invoices, your customers will get a receipt for every payment from the first invoice to the final invoice.
+
+
+Does your software offer integration to FreshBooks or other accounting software?
+Yes, Square Invoices offers integrations to the most popular accounting software providers, including FreshBooks and Xero. With Square, you’re able to seamlessly import payments processed with Square Invoices to your accounting software for accurate record-keeping.
+
+
+Does Square Invoices support multi-currency?
+No, Square Invoices does not support multi-currency acceptance today.
+
+
+What can I actually do with Virtual Terminal?
+You can use Virtual Terminal to charge customers, itemise sales and create recurring payments to save time and get paid faster.
+
+
+How can I get started with Square Virtual Terminal?
+First, you need to sign up for your free account with Square. In Square Dashboard, click Virtual Terminal, then Take a Payment. Enter the amount and click Charge. More detailed steps below.
+
+
+What is the difference between a quick charge vs an itemised sale?
+A quick charge is when you want to enter just the amount of the transaction. An itemised sale is possible after setting up an item library for your items or services, which provides you with better insights into sales and gives your customers more detailed receipts.
+
+
+Why are Virtual Terminal payments priced differently?
+Manually entered, keyed-in card transactions are a potentially higher risk than contactless or chip and PIN transactions because the cardholder isn’t standing in front of the seller where an ID can be checked or a PIN requested to authorise the sale. So card networks put measures in place to protect against this potentially higher risk of fraud, including charging Square higher fees.
+
+
+Does Virtual Terminal work for Windows or Mac?
+Both. Square Virtual Terminal works as a Mac POS system or a Windows POS system. Because it’s browser-based, it’s just a digital POS that lets you offer payment card processing, regardless of what operating system you use.
+
+
+What is an instant bank transfer?
+An instant bank transfer is the movement of money from one account to another in a flash. You can expect instant transfers to become available in your account in minutes (or even seconds).
+
+
+What are the benefits of instant bank transfers?
+Instant bank transfers are a great way to get money from sales into your linked bank account as soon as you make a sale. This will help you manage cash flow for your business by giving you access to cash when you need it.
+
+
+How do I send an instant transfer with Square?
+Making an instant transfer is as easy as 1-2-3.
+Go to Balance in your Square App.
+Select “Transfer Instantly.”
+That’s it!
+
+
+Are there any transfer limits?
+Instant transfers require a minimum balance of £15 after Square’s processing and transfer fees, and a maximum transfer size of £3,500. Funds that are not eligible for instant transfers will be sent to the bank account linked to your Square account in one to two business days.
+Note: New Square sellers start with a limit of up to £750 per day. As you run and grow your business with Square, a higher daily transfer amount may become available.
+
+
+Do I need to be a Square seller to use Square instant transfers?
+Yes. When you take payments with Square, you get access to instant transfers. Simply make sales with Square and visit Balance in your Square app to move your money in moments to a linked bank account.
+
+
+How do I start using Square POS?
+Download the Square POS app and sign in to open your account. Start accepting payments by entering card numbers without a reader. Order a Square Reader for just £19 + VAT, which should arrive in 2–3 business days, or you can pick one up at a participating retail store.
+
+
+How long does it take to get trained?
+Square is intuitive to use and easy to get started on. Usually people get up to speed in less than an hour, no lengthy training seminars necessary. Find out more details from our Get Started Guide in our Support Centre.
+
+
+How long will it take to set up my Point of Sale?
+Getting set up to accept debit and credit cards on Square only takes a few minutes. And with a few more minutes, you can set up items and take advantage of our entire suite of products to help you run and grow.
+
+
+What if I have a question about my Square Point of Sale?
+Our highly trained Support team is available via phone or email. Phone support is available from 9 a.m. to 5 p.m., Monday to Friday and email is available 24/7. You can also visit the Support Centre 24/7 to find useful tips, articles and thorough video walkthroughs.
+
+
+How much does Square POS cost?
+Our Point of Sale app is free and can support all kinds of businesses at any stage or size. The processing rate is 1.75% per Chip and PIN or contactless payment for every major debit and credit card, Apple Pay and Google Pay. There are no other monthly fees, contracts or commitments.
+
+
+Do I have to pay for each of my employees to use Square Point of Sale?
+No. Basic POS functionality for any number of employees is free with Team Management, which also offers more advanced employee controls for a per-location fee.
+
+
+What does Square do to help with fraud protection?
+Our systems monitor your payments to keep an eye on suspicious transactions. Machine learning and human expertise work hand in hand to adapt our technology to the shifting fraud landscape every day. And our team of fraud experts reaches out to you if we notice anything unusual.
+
+
+Are there any hidden fees I should be aware of?
+Nope. There are no commitments, long-term contracts, startup fees, authorisation fees, statement fees, PCI-compliance fees or business card fees. Just pay when you use it. That’s it.
+
+
+What cards can I accept with POS? Does the fee I pay vary by card?
+You can accept every major card – Visa, Mastercard and American Express – all for the same rate.
+
+
+What methods of payment can my customers use?
+You can accept cards, mobile payments, cash, cheques and gift cards.
+
+
+How do I issue refunds?
+It’s really simple — here are instructions to take you through it. And don’t worry, you aren’t charged a transaction fee on refunds.
+
+
+How do I take a payment with Square?
+You can easily accept payments with Square hardware connected to your phone or tablet, through digital invoices or with your computer.
+
+
+How quickly can I access my funds?
+You can get your money the next business day as standard for no additional charge or immediately transferred to your bank account for a small fee.
+
+
+Does the app work with my iPhone, iPad or Android device?
+Yes, it does.
+
+
+Does Square Point of Sale connect to printers or scales?
+Yes, Square now works with multiple printers and scales. For a full list of printers, check out our POS Hardware Shop.
+
+
+Does Square POS work with my existing business tools and services?
+From accounting apps (Xero, Kashflow, etc.) and eCommerce solutions (Wix, WooCommerce, GoDaddy, etc.) to inventory and team management (Deputy, etc.), Square works with apps for any need. Connect in just a few steps, sync your data and manage apps right from your Square Dashboard.
+
+
+Can I manage my inventory from my Point of Sale?
+Square inventory management lets you keep a clear count of in-stock items in your item library. With inventory enabled, the stock count updates based on sales from the Square app, through Square Invoices, and for orders shipped through your online store.
+
+
+Can I sell online with Square POS?
+Square Online powers your online business with tons of eCommerce features. Square automatically syncs across your online shop and POS, so it’s easy to keep track of orders, items and inventory.
+
+
+What kind of hardware solutions sync with Square Point of Sale?
+Your point of sale seamlessly integrates with any Square hardware solution. Try Square Register or Square Reader, or connect Square Terminal to your POS to give customers a private, separate screen to check out from a safe distance.
+
+
+How much does Square hardware cost?
+Square Reader, which accepts contactless and chip & PIN card payments, is just £19 + VAT. We also offer all-in-one and countertop hardware options to help you ring up items and accept payments fast. Learn more about POS hardware.
+
+
+How durable is Square hardware?
+Our hardware is designed and tested to withstand the busiest checkouts, day in and day out. We back this up with a limited one-year manufacturer’s warranty on all hardware purchased on Square Shop.
+
+
+What's your hardware warranty policy?
+We cover your Square hardware against all defects in materials or workmanship through our limited one-year manufacturer’s warranty.
+
+
+What happens if I break my hardware?
+Square hardware is built to be relied on. If you run into any issues with your hardware, reach out to our Support team. You can also order replacement accessories directly on Square Shop.
+
+
+Is the hardware rented or purchased?
+All hardware, once purchased outright or through our interest-free instalments plan, is completely owned by you. No rental agreements or lease contracts needed.
+
+
+What other fees do I have to pay with hardware?
+Besides your payment processing fees, none whatsoever.
+
+
+What's your hardware return policy?
+Any piece of Square hardware can be returned directly to the original point of purchase if you are not fully satisfied with it. We offer a 30-day, risk-free return policy on all hardware purchased from Square Shop.
+
+
+How do I start my online store for free?
+Here’s a quick step-by-step overview on what you need to do. First, start by creating a free Square account. With a Square Online free plan, you can immediately start using our website builder to get your online store built right away. Use our easy-to-use online store builder to design a professional-looking eCommerce website for your business. Choose between a single ordering page or a multi-page eCommerce website and then customise your order fulfilment methods. Now you’re ready to add your products or automatically sync them from your Square point-of-sale system and start selling. No monthly fees or startup costs, just pay a processing fee when you make a sale.
+
+
+How can I use Square Online for my retail store?
+Using our powerful store builder, you can go from setup to selling on your online store in no time. With our eCommerce website builder you can create a professional new website – no coding experience necessary. Customise elements like colours, fonts, image shape and more to match your brand and style. List unlimited products, add multiple photos, product descriptions and size variations.
+Not ready for a full online store? No worries – our Instagram integration lets you import your Instagram feed to create a single shopping page. Just tag your items and you’ll be selling from your own online store in minutes.
+With Square Online and a Square POS, keep your brick-and-mortar store and online store in sync. You can automatically import your items into your online store. Then, all your orders, inventory and customer information will automatically sync. Manage both sides of your business, your online store and your physical store, all in one place.
+
+
+Can I use my online store to sell on social media?
+Yes. You get access to a number of built-in integrations to connect your online store with popular social media sites. Drive new customers to your online shopping site when you integrate Square Online with Instagram and Facebook Shops. You can also take Instagram posts from your feed and turn them into a single-page eCommerce website with a user-friendly checkout and payment gateway from Square. With Square Marketing’s easy-to-customise templates, you can create custom email campaigns. And with our social media integration, post your campaign on Facebook at the same time you send your emails.
+
+
+What is a payment link?
+You can create a payment link from the Online Checkout section on the online Square Dashboard or from the Online Checkout add-on in the Square POS app. There, you’ll choose either Collect a payment, Sell an item, Accept a donation, or Sell classes or tickets. Enter a title for your link and the amount you’re charging for an item or collecting as payment. If an item is from your library, the price will pre-populate. For donation requests, you’ll be able to let your donors enter a donation amount at checkout. After you save your payment link you can then choose to format it as a buy button or generate a QR code, depending on how you want to share it or get it in front of your customers, clients, or donors.
+When the recipient of your link clicks on it, or if you’re using a QR code and they scan it, they’ll open a secure online checkout page where they can submit payment. This page can be customized with your business name or logo. You can also add custom form fields to the information displayed on your checkout page, as well as customize the button color and button text.
+There is no monthly fee for using Square Online Checkout links. You’ll only pay Square standard eCommerce processing fees of 1.4% + 25p per transaction for UK cards and 2.5% + 25p per transaction for non-UK/non-EEA cards, and you can accept a variety of payment methods, including Apple Pay, Google Pay, Square Pay and card payment. You can even accept installment payments with Clearpay at 6% + 30p per transaction. Upon completion of a transaction, funds are transferred to the bank account you have linked to your Square account
+
+
+How do I share a payment link?
+You have a number of options when it comes to sharing payment links. Easily paste a pay link in an email or a Whatsapp or SMS message and send it to a group of recipients all at once. All it takes is one link and you can collect payment from multiple people for the same item or service. Or post a link on Facebook, Instagram, or Twitter and turn those social media sites into a payment gateway. Payment links can be saved as buy buttons that you can embed on an existing website or blog to quickly introduce an eCommerce component to those online destinations. You can also format your pay links as a QR code that you can print on signs or leaflets that customers can scan with their phone and get taken directly to a mobile-ready payment page.
+
+
+Is Square Online Checkout secure
+All Square products, including Square Online Checkout payment links, run on the Square payments platform. From the time a customer uses a credit or debit card or enters their information into our solutions, payment data is encrypted until it reaches the Square processing environment. Our proprietary tokenization scheme ensures that unencrypted payment data never touches your device or application. In addition, Square complies with the PCI DSS (Payment Card Industry Data Security Standard), which is a standard put forth by the five largest credit card companies to help reduce costly consumer and bank data breaches.
+
+
+How do I use the background remover?
+The background remover uses artificial intelligence to detect the primary object in
+the picture and automatically removes the background. The AI tool does all the
+background removal editing work for you so you don’t need to take any additional steps.
+
+
+Which background and shade options are available?
+When it comes to editing the background image of your photos, Square Photo Studio
+offers a number of options. Once the app removes the original background, you can use
+the photo with its transparent background or add a crisp, white background for eCommerce
+use. In addition, you can select from a variety of preset colour backgrounds for social
+media selling, choose a styled two-tone background or enter a specific hex code into the
+custom colour picker and get a background that perfectly matches your brand. The app
+makes it easy to create a whole new image in seconds without having to retouch or resize.
+
+
+Do I need a Square Online account to start using the app?
+A Square online account is not required. The app is free and doesn’t require any
+in-app purchases. If you want to save photos, sync photos to Square items or create
+a Square Online Checkout link, you will be prompted to create a Square account.
+
+
+Which file format are the photos saved as?
+File formats vary depending on the type of image format being
+saved. Images with backgrounds are saved as JPG files. Images
+with their backgrounds removed are saved as transparent PNG files.
+
+
+Which devices can you connect with a Square Reader?
+Square Reader is compatible with a wide range of Android and iOS devices. Square offers a range of cases, a dock and other accessories to transform your Square Reader into a mobile or countertop POS solution.
+
+
+Does Square Reader require Wi-Fi?
+You can use Wi-Fi, a hotspot or cellular data to accept payments on Square Reader – and you’ll need an internet connection to process payments.
+
+
+Does Square Reader need to be charged?
+Square Reader does need to be charged, but once charged, it has a battery that lasts all day.
+
+
+Does Square Reader accept contactless and chip and PIN payments?
+Yes. Square Reader accepts chip cards, contactless (NFC) cards, Apple Pay and Google Pay.
+
+
+Do I need to pair Square Reader to my device again if I temporarily stop using it?
+Reader will stay connected to make a sale without needing to pair your reader again.
+
+
+Does Square Terminal need Wi-Fi?
+Square Terminal needs to be connected to the internet via Wi-Fi. Optionally, you can purchase a Hub for Square Terminal that allows you to connect via Ethernet cable.
+
+
+Do I need to charge my Square Terminal before I use it?
+Your Square Terminal should come with a partially charged battery when you receive it. If you plan to use your Terminal for an extended period of time away from a power cable, it’s always a good idea to ensure you have a full charge.
+
+
+How do I connect Square Terminal when my Wi-Fi is down?
+If you have an Ethernet connection and Hub for Square Terminal, you can connect to Ethernet by plugging in your Ethernet cable to the hub. If you do not have an Ethernet connection or your entire internet connection is down, you can tether Square Terminal to your smartphone or other portable Wi-Fi hotspot.
+
+
+What if I have a question about my Square Terminal?
+Our highly trained Support team is available via phone or email. Square Terminal merchants have 24/7 access to both phone and email support. You can also visit our Support Centre 24/7 to find useful tips, articles and thorough video walkthroughs.
+
+
+How do I take contactless payments, such as Apple Pay and Google Pay on Square Terminal?
+When you are ready to accept a contactless payment, tap the Charge button on Terminal. Have your customer hold their contactless device or card near the contactless symbol to start a contactless payment.
+
+
+Can I manage online orders on Square Terminal?
+Yes. With Square Terminal you can view and filter your orders by status or type, update order progress, update tracking information and have your orders printed from the Square Terminal’s built in printer. You can learn more about managing orders on Square Terminal in our Support Centre.
+
+
+Does my customer need to leave the chip card in the Square Terminal chip card slot while taking a payment?
+Yes, the chip card needs to stay inserted in the Square Terminal card slot until the transaction is complete. Your customer will see a confirmation message when it’s time to remove the card.
+
+
+How can I swipe chip cards?
+If the card has a chip on it, you need to insert it into the card slot. You can only swipe magnetic stripe-only Visa, MasterCard, American Express cards or faulty chip and PIN cards. If your Square Terminal cannot read the chip after three attempts, you will be prompted to swipe the chip and PIN card.
+
+
+Can I connect Square Terminal to other hardware?
+Yes, you can connect your Terminal to:
+USB, Ethernet or Epsom receipt printers
+USB cash drawer (receipt printer-driven cash drawers are also supported)
+USB barcode scanner
+You can find out more about Square Terminal’s Device Compatibility in our Support Centre.
+
+
+Which types of chargers will work with my terminal?
+Your Square Terminal power adaptor has a USB-C port. While some merchants have been able to charge their Terminals with third-party chargers, we recommend using the power adaptor provided with your Square Terminal.
+
+
+Can I use Square Terminal with Square
+for Retail or Square for Restaurants?
+For the time being, you cannot download Square for Restaurants or Square for Retail on Square Terminal. However, if you are using Square for Restaurants, you can still take advantage of some of the features using the Square Terminal to take tableside orders and payments. You can find out more about how you can use Square for Restaurant with Square Terminal in our Support Centre.
+
+
+Will my iPad work with Stand?
+Square Stand is compatible with several iPad models, including the 10.2” and 10.5” iPads. Before buying Square Stand, make sure you have a supported iPad.
+iPad (9th generation 2021)
+iPad (8th generation 2020)
+iPad (7th generation 2019)
+iPad Air (3rd generation 2019)
+iPad Pro 10.5”
+
+
+Which printers, cash drawers, scanners and other accessories work with Stand?
+Square Stand is compatible with a range of third-party accessories, including a variety of models from different manufacturers and options for every type of business. From adding a cash drawer to transform Square Stand into a complete iPad cash register to connecting a barcode scanner to make checkouts even more efficient, you can customise your setup and seamlessly purchase everything directly from Square or start by seeing all the accessories that work with Square Stand.
+
+
+How do I secure Stand to my counter?
+Securing Square Stand to your counter is easy and you can set everything up in no time at all.
+Get step-by-step directions here.
+
+
+Can I pair other Square hardware or readers with Stand?
+It’s simple to pair Square Stand with other Square hardware. You can easily connect an extra card reader, like Square Reader, to take payments at a distance or extend your countertop. You can also add Square Terminal to your Square Stand setup to add a dedicated customer display or take payments wherever your customers are.
+
+
+What's included with Square Register?
+With Square Register you get hardware (including a touch screen seller display, detachable touch screen customer display, hardware hub, and mounting kit), pre-installed point-of-sale software and a built-in payment terminal with Square’s secure payments technology. They’re all built by Square, so you can sell with confidence, knowing everything will just work together.
+
+
+How do I secure Square Register to my countertop?
+There are two ways to secure the device to your countertop - using adhesive or screwing with a mounting plate. You can learn more about how this is done in our Support Centre
+
+
+How do I connect Square Register to my network?
+There are two ways to connect Square Register to your network: Wi-Fi and Ethernet. You can connect to Wi-Fi through Device > Network. Or you hard-wire through the Ethernet port on the hardware hub. Make sure to check the network connection in the same section. You can also quickly check via the Wi-Fi / Ethernet network status indicator at the top right corner of the status bar.
+
+
+Is Square Register right for my business?
+Square Register is specifically built to be a point of sale device and to work well for a wide variety of businesses, but it does have a few distinctive features that will make it work best for businesses that need a customer-facing display, have unique countertops and/or need to connect 3 or more point-of-sale accessories such as a receipt printer, cash drawer or barcode scanner. Square Register is also ideal for businesses that prefer to use an ethernet connection (though you can also connect Square Register to Wi-Fi), or if you need a point of sale that won’t take up a lot of your counter space.
+
+
+How can I take payments with Square Register?
+Square Register comes with secure payment technology so you accept payments as soon as you’re set up. Position the customer display so your customers can easily see it and pay with their cards and devices. To take a payment, build your basket and tap Charge. Customers can then tap or insert their card on the customer display.
+
+
+How do I take contactless payments, such as Apple Pay and Google Pay?
+When you are ready to take a card payment, tap the blue Charge button on Register. The contactless logo on customer display will light up after tapping Charge. Ask your customer to hold their contactless device or card near the contactless logo to trigger a contactless payment.
+
+
+What are my transaction fees?
+Contactless, chip and PIN and magnetic stripe card transactions processed on Square Register have a 1.75% fee per transaction. Manually keyed-in, processed using Card on File, processed using Virtual Terminal, or processed using Invoices have a 2.5% fee per transaction.
+
+
+Does my customer need to leave the chip and PIN card in the customer display’s card slot while taking a payment?
+Yes, the chip and PIN card needs to stay inserted in the the customer display’s card slot until the transaction is complete. The customer will get a confirmation message when it’s time to remove the card.
+
+
+What hardware accessories does Square Register support?
+Square Register has a hub that allows connection of up to 5 USB devices. Currently, receipt/kitchen printers, barcode scanners, keyboards and cash drawers are supported. Bluetooth-connected hardware accessories are not supported at this time. You can check the exact models supported by Square Register in our POS Hardware Shop.
+
+
+Can I use Square Register with Square for Restaurants or Square for Retail?
+Yes, if you are using the Square for Retail app on Square Register, you’ll have access to both the in-app features and a full suite of features on your Square Dashboard.
+Square for Restaurants is also supported. Some Square for Restaurants Plus/Premium features are not yet available. Square KDS is supported.
+Keep in mind that only Square for Restaurants Free features are available on your Register. Some Square for Restaurants Plus features are already available on your Register if you upgrade, and the remaining features will continue to be released throughout 2021. Contact Sales for more information.
+
+
+Is Square Register compatible with Square Appointments?
+Yes, you can sign into Square Appointments on Square Register once you have signed up for a Square Appointments account and are running version 4.22 or higher on your Register.
+
+

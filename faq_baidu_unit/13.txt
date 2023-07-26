@@ -1,0 +1,2 @@
+技能对话效果不好，经常换个问法就答不上了怎么办？
+这是由于模型泛化较差导致的，推荐您可以尝试以下几种泛化方法提升对话效果：<br>  1. 如果问题中，句式差异较大，如下示例，建议为问答对增加相似问题<a href="https://ai.baidu.com/ai-doc/UNIT/okipmxah5#%E9%85%8D%E7%BD%AE%E9%97%AE%E9%A2%98" target="_blank">点此查看详情</a><br>    例：Q1：肯德基在哪里？、Q2：哪里有肯德基？<br>  2. 如果问题中，句式基本相同，只是关键词进行了替换，如下示例，建议为问答对增加问答模板<a href="https://ai.baidu.com/ai-doc/UNIT/okipmxah5#%E9%85%8D%E7%BD%AE%E9%97%AE%E9%A2%98" target="_blank">点此查看详情</a><br>    例：Q1：肯德基在哪里？、Q2：肯德基在什么地方？

@@ -1,0 +1,2 @@
+技能对话接口调用多轮对话怎么传参？
+<a href="https://ai.baidu.com/forum/topic/show/870054" target="_blank">https://ai.baidu.com/forum/topic/show/870054</a>

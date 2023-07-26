@@ -1,0 +1,2 @@
+对话时能否传入默认的词槽信息？
+可以，比如查天气，如果已知用户的地点信息，那么就不用再让用户澄清地点。文档：<a href="https://ai.baidu.com/forum/topic/show/968762" target="_blank">https://ai.baidu.com/forum/topic/show/968762</a>

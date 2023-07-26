@@ -1,0 +1,2 @@
+如果词典值内容是开放内容，怎么配置词典呢？
+1、使用正则表达式，文档链接：<a href="https://ai.baidu.com/forum/topic/show/492687" target="_blank">https://ai.baidu.com/forum/topic/show/492687</a><br>2、使用通配词槽，文档链接：<a href="https://ai.baidu.com/forum/topic/show/957131" target="_blank">https://ai.baidu.com/forum/topic/show/957131</a>

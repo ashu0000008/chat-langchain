@@ -1,0 +1,2 @@
+query识别不符合预期应该怎么检查？
+语句的解析包括分词、分词结果标注词槽、模型给出识别候选（与训练数据有关）、选定最终识别结果、展示结果5个步骤，一般都是前3个步骤结果不符合预期，具体的检查方法可以参考链接：<a href="https://ai.baidu.com/forum/topic/show/968728" target="_blank">https://ai.baidu.com/forum/topic/show/968728</a>
