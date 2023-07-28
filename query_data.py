@@ -36,6 +36,7 @@ def get_chain(
         callback_manager=stream_manager,
         verbose=True,
         temperature=0,
+        max_tokens=512,
     )
 
     question_generator = LLMChain(
