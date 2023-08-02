@@ -56,7 +56,7 @@ async def websocket_endpoint(websocket: WebSocket):
 
             # 不使用历史数据
             result = await qa_chain.acall(
-                {"question": question}
+                {"question": question, "chat_history": ""}
             )
             chat_history.append((question, result["answer"]))
 

@@ -13,7 +13,7 @@ def ingest_docs():
     # loader = PyPDFLoader("PAXPAY互联网终端接入规范V2.1.pdf")
     # loader = TextLoader("faqskill_FAQ_百度_UNIT.txt", autodetect_encoding=True)
 
-    loader = DirectoryLoader('./faq_baidu_unit', glob='**/*.txt')
+    loader = DirectoryLoader('./test', glob='**/*.txt')
     raw_documents = loader.load()
     text_splitter = RecursiveCharacterTextSplitter(
         chunk_size=400,
